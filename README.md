@@ -8,4 +8,4 @@ the front sensor turns on to detect a customer. When the Front sensor detects a 
 doorbell so it rings until the employee comes back to the front of the shop. Once the customer and employee both leave the program restarts.
 
   At the current stage it just turns on an LED depending on the conditions it reads from the sensors, next step is to connect it to the doorbell switch, and use an ATMEGA328
-and make it a more permanent device, and to move up from the prototype stage. 
+and make it a more permanent device.
